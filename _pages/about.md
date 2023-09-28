@@ -30,3 +30,5 @@ Skills
 * Embedded System
 
 This is my very first true personal website! It is completely brand-new, and I am still in the progress of building it. I will be working on it whenever I have free time and feel inspired.
+
+See more info at [academicpages](https://academicpages.github.io/). 
