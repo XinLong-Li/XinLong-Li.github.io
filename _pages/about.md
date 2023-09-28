@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Statements"
+# title: "Statements"
 # excerpt: "Xinlong Li"
 author_profile: true
 redirect_from: 
