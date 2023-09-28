@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xinlong Li(李新龙)"
   avatar           : "profile.png"
-  bio              : "Currently, I am pursuing my master's degree at ShanghaiTech University, and my research interests are robotics and embedded systems."
+  # bio              : "Currently, I am pursuing my master's degree at ShanghaiTech University, and my research interests are robotics and embedded systems."
   location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
