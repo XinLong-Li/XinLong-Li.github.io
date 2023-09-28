@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Xinlong Li"
-excerpt: "Xinlong Li"
+# excerpt: "Xinlong Li"
 author_profile: true
 redirect_from: 
   - /about/
@@ -28,6 +28,31 @@ Skills
 ======
 * High-Speed Digital Circuit Design
 * Embedded System
+
+Publications
+======
+* To be updated.
+  <!-- <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+Talks
+======
+* To be updated.
+  <!-- <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+   -->
+Teaching
+======
+* To be updated.
+  <!-- <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+  
+Service and leadership
+======
+* To be updated.
 
 This is my very first true personal website! It is completely brand-new, and I am still in the progress of building it. I will be working on it whenever I have free time and feel inspired.
 
