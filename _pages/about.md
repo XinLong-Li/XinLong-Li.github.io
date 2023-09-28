@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinlong Li"
+title: "Statements"
 # excerpt: "Xinlong Li"
 author_profile: true
 redirect_from: 
@@ -32,23 +32,15 @@ Skills
 Publications
 ======
 * To be updated.
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
   
 Talks
 ======
 * To be updated.
-  <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-   -->
+
 Teaching
 ======
 * To be updated.
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 Service and leadership
 ======
