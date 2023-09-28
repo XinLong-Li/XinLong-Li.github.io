@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinlong Li(李新龙)"
+  name             : "Xinlong Li (李新龙)"
   avatar           : "profile.png"
-  # bio              : "Currently, I am pursuing my master's degree at ShanghaiTech University, and my research interests are robotics and embedded systems."
+  bio              : "I am interested in robotics, embedded systems and hardware circuit design."
   location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/XinLong-Li"
+  github           : "XinLong-Li"
   google_plus      :
   keybase          :
   instagram        :
