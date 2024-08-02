@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Summary"
+title: "Home"
 excerpt: "Xinlong Li"
 author_profile: true
 redirect_from: 
