@@ -28,4 +28,5 @@ Skills
 * High-Speed Digital Circuit Design
 * Embedded System
 
-Download my CV [Here](http://xinlong-li.github.io/files/李新龙的简历.pdf). 
+Download my English Version CV [here](http://xinlong-li.github.io/files/Xinlong-li_CV.pdf). 
+Download my Chinese Version CV [here](http://xinlong-li.github.io/files/李新龙的简历.pdf). 
