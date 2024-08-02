@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 09/2015-06/2019, Guilin University of Electronic Technology, Guilin, China
+  * B.E. in Measurement and Control Technology and Instrument
+* 09/2022-06/2025 (expected), ShanghaiTech University, Shanghai, China
+  * M.E. in Electronic Science and Technology
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2019-06/2021, Siglent Technologies CO., Ltd, Shenzhen, China
+  * Hardware Development Engineer
+  * Duties included: Mainly responsible for the hardware upgrade and maintenance of a 1GHz bandwidth oscilloscope
+(SDS5000X).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* High-Speed Digital Circuit Design
+* Embedded System
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Download my CV [Here](http://xinlong-li.github.io/files/李新龙的简历.pdf). 
