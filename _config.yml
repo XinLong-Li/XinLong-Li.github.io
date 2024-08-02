@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinlong Li (李新龙)"
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   bio              : "Graduate student in robotics at ShanghaiTech University."
   location         : "Shanghai, China"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/xinlong-li-70b517103/
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
