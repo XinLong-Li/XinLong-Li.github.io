@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,4 +29,5 @@ Skills
 * Embedded System
 
 Download my English Version CV [here](http://xinlong-li.github.io/files/Xinlong-li_CV.pdf). 
+
 Download my Chinese Version CV [here](http://xinlong-li.github.io/files/李新龙的简历.pdf). 

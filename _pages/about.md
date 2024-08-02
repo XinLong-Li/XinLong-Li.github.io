@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Summary"
+title: "About me"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, Welcome to my homepage. Currently, I am pursuing my master's degree at ShanghaiTech University, and my research interests are robotics and embedded systems.
+Hi, Welcome to my homepage. 
+
+Currently, I am pursuing my master's degree at ShanghaiTech University, and my research interests are robotics and embedded systems.
 
 
 
