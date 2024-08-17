@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+Download my English Version CV [here](http://xinlong-li.github.io/files/Xinlong_li_CV.pdf). 
+
+Download my Chinese Version CV [here](http://xinlong-li.github.io/files/李新龙_简历.pdf). 
+
 Education
 ======
 * 09/2015-06/2019, Guilin University of Electronic Technology, Guilin, China
@@ -28,6 +33,3 @@ Skills
 * High-Speed Digital Circuit Design
 * Embedded System
 
-Download my English Version CV [here](http://xinlong-li.github.io/files/Xinlong-li_CV.pdf). 
-
-Download my Chinese Version CV [here](http://xinlong-li.github.io/files/李新龙的简历.pdf). 
