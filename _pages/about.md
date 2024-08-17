@@ -15,5 +15,3 @@ My name is Xinlong Li. Currently, I am pursuing my master's degree at ShanghaiTe
 Before that, I worked as a hardware development engineer at Siglent Technologies CO., Ltd, Shenzhen, China. I was mainly responsible for the hardware upgrade and maintenance of a 1GHz bandwidth oscilloscope (SDS5000X).
 
 I received my bachelor's degree in Measurement and Control Technology and Instrument from Guilin University of Electronic Technology.
-
-So as you can see, I have a strong background in hardware design and embedded system development.
